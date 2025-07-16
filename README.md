@@ -88,22 +88,6 @@ The dataset contains **20,765 entries and 22 features**, including:
 
 ---
 
-## How to Run This Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024.git
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. Run the **Jupyter notebook** or **Python script**:
-   ```bash
-   jupyter notebook day23_airbnb_eda.ipynb
-   ```
-
----
-
 ## Recommendations
 - **For Guests**: 
    - Look for listings with high availability and good reviews for a better experience.
@@ -115,27 +99,7 @@ The dataset contains **20,765 entries and 22 features**, including:
 
 ---
 
-## Future Work
-- Use **machine learning** to predict prices based on room type and location.
-- Perform **sentiment analysis** on reviews to better understand guest experiences.
-- Create an **interactive dashboard** using Plotly or Tableau for live monitoring.
-
----
-
 ## Conclusion
 This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using **EDA techniques**, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
-
----
-
-## License
-This project is open-source and licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify the code.
-
----
-
-## Contact
-For any queries, feel free to reach out at:
-- **YouTube**: [@Zero_Analyst](https://www.youtube.com/@Zero_Analyst)  
-- **GitHub**: [Your GitHub](https://github.com/your-repo)  
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)  
 
 ---
