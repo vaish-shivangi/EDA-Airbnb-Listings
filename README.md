@@ -1,13 +1,13 @@
 ### Airbnb Listings EDA Project: New York 2024  
 
----
+
 
 ## Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like **Pandas, Numpy, Matplotlib, Seaborn**for cleaning, visualization, and analysis. 
 
 ![](https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024/blob/main/New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2.jpg)
 
----
+
 
 ## Objective
 The goal of this project is to:
@@ -16,7 +16,7 @@ The goal of this project is to:
 3. Detect potential **outliers** in prices.
 4. Provide recommendations for guests and hosts based on insights.
 
----
+
 
 ## Dataset
 The dataset contains **20,765 entries and 22 features**, including:
@@ -30,7 +30,7 @@ The dataset contains **20,765 entries and 22 features**, including:
 - **reviews_per_month**: Average monthly reviews for the listing  
 - **availability_365**: Number of available days in the year  
 
----
+
 
 ## Steps and Workflow
 
@@ -67,7 +67,7 @@ The dataset contains **20,765 entries and 22 features**, including:
 - **Histograms and Boxplots**: To detect outliers in `price`.
 - **Bar Charts**: Displaying room types and neighborhood group distributions.
 
----
+
 
 ## Key Findings and Insights
 1. **Price Trends**:  
@@ -86,7 +86,6 @@ The dataset contains **20,765 entries and 22 features**, including:
 5. **Host Behavior**:  
    - Some hosts manage **multiple listings**, indicating a trend toward professional hosting.
 
----
 
 ## Recommendations
 - **For Guests**: 
@@ -97,9 +96,8 @@ The dataset contains **20,765 entries and 22 features**, including:
    - Improve **availability** and **review response rates** to attract more bookings.
    - Manage pricing effectively to compete within the borough's market.
 
----
+
 
 ## Conclusion
 This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using **EDA techniques**, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
 
----
